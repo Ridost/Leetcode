@@ -5,5 +5,5 @@ https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-
 Create a adjacency list to represent the graph, and using dfs to traversal all the node and calculate to reverse edges.
 
 ### Complexity
-Time Complexity: O(n)
-Space Complexity: O(n)
+ - Time Complexity: O(n)
+ - Space Complexity: O(n)

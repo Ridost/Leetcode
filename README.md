@@ -1,1 +1,2 @@
 # Leetcode_Practice
+在這邊紀錄一下自己刷題的過程以及解法

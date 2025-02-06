@@ -4,4 +4,4 @@ https://leetcode.com/problems/tuple-with-same-product/description/
 ### map
 #### Time: $O(N^2)$
 #### Space: $O(N^2)$
-https://leetcode.com/problems/tuple-with-same-product/submissions/1533074769/
+https://leetcode.com/problems/tuple-with-same-product/submissions/1533082392/
